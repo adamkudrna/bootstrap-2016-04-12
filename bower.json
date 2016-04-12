@@ -1,0 +1,11 @@
+{
+  "name": "bootstrap-2016-04-12",
+  "authors": [
+    "Adam Kudrna <adam@visionapps.cz>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
